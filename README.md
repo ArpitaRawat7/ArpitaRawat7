@@ -30,5 +30,3 @@ Brazilian E-Commerce Analytics (SQL + Power BI)
 
 ## Connect With Me
 LinkedIn: [www.linkedin.com/in/arpita-rawat-8074b0407]
-
--->
